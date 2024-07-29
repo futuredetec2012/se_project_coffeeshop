@@ -94,20 +94,26 @@
   background-color: #0a2850;
 }
 
+.about__title {
+  padding-top: 100px;
+  padding-left: 80px;
+  max-width: 251px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+  color: #fff;
+}
+
 .about__content {
   margin-top: 19px;
   max-width: 660px;
+  color: #fff;
 }
 
 .about__paragraph {
   max-width: 660px;
   padding-right: 80px;
-}
-
-.dot {
-  height: 25px;
-  width: 25px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
+  color: #fff;
 }
