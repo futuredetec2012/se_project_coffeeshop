@@ -87,12 +87,15 @@
 .about {
   display: flex;
   justify-content: space-between;
-  padding-top: 119px;
+  padding-top: 100px;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 173px;
   background-color: #0a2850;
 }
 
 .about__content {
-  margin: 19px;
+  margin-top: 19px;
   max-width: 660px;
 }
 
