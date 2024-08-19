@@ -14,6 +14,7 @@
   display: flex;
   justify-content: space-between;
   padding: 60px 80px 108px 80px;
+  align-items: start;
 }
 
 .footer__social-heading {
@@ -23,6 +24,9 @@
 .footer__list {
   color: white;
   list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
 }
 
 .footer__list-item {
@@ -42,4 +46,6 @@
 }
 
 .footer__social-link {
+  display: flex;
+  gap: 10px;
 }
