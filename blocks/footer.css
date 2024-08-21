@@ -2,10 +2,6 @@
   background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
 }
 
-.footer__list {
-  background-color: #c1c1c1;
-}
-
 .footer__content {
   display: flex;
   justify-content: space-between;
@@ -15,6 +11,12 @@
 
 .footer__social-heading {
   color: white;
+  font-family: "Inter";
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .footer__list {
@@ -30,6 +32,12 @@
 .footer__list-item {
   color: white;
   list-style-type: none;
+  font-family: "Inter";
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .footer__logo {
@@ -40,6 +48,12 @@
   padding-top: 108px;
   padding-bottom: 60px;
   padding-left: 80px;
+  font-family: "Inter";
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .footer__social-link:hover {
