@@ -1,3 +1,7 @@
+.card {
+  width: 540px;
+}
+
 .card__list {
   padding: 0;
   margin: 0;
