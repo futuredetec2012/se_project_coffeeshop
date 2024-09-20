@@ -27,6 +27,7 @@
   font-size: 20px;
   line-height: 30px;
   max-width: 438px;
+  margin: 0px;
 }
 
 .recipes__video-caption {
@@ -40,6 +41,7 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
+  margin: 0px;
 }
 
 .recipes__videos {
@@ -52,4 +54,5 @@
 .recipes__iframe {
   height: 273px;
   width: 480px;
+  border-style: none;
 }

@@ -27,12 +27,15 @@
 
 .form__input {
   color: #d9e7ff;
+  border: 1px solid #838383;
+  padding-top: 20px;
+  padding-left: 15px;
   display: block;
   width: 100%;
   box-sizing: border-box;
-  border-radius: 0%;
+  border-radius: 4px;
   margin-top: 8px;
-  font-family: "Inter, Arial, serif";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -41,9 +44,9 @@
 
 .form__button {
   width: 100%;
-  padding: 0;
+  padding-top: 20px;
   margin-bottom: 32px;
-  border-radius: 0%;
+  border-radius: 4px;
   font-family: "Inter, Arial, serif";
   font-style: normal;
   font-weight: 500;
@@ -51,4 +54,5 @@
   line-height: 20px;
   background-color: #2f80ed;
   color: white;
+  transition: background-color 0.5s ease-in-out;
 }
