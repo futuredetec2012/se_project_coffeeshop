@@ -14,6 +14,7 @@
   font-family: "Inter", Arial, sans-serif;
   margin-top: 0;
   margin-bottom: 0;
+  padding-bottom: 20px;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -51,10 +52,9 @@
 .footer__copyright {
   color: white;
   padding-top: 0;
-  padding-bottom: 0;
+  padding-bottom: 60px;
   padding-left: 80px;
   font-family: "Inter", Arial, sans-serif;
-
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
