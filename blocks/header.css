@@ -8,6 +8,7 @@
   height: 100vh;
   background: #ffffff url("../images/background_header.svg") no-repeat center;
   background-size: cover;
+  z-index: 0;
 }
 
 .header__image {
@@ -16,6 +17,7 @@
   height: 568px;
   top: 124px;
   right: 5px;
+  z-index: -1;
 }
 
 .header__title {
